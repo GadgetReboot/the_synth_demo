@@ -451,7 +451,7 @@ void offHookTone(int cycles) {
   }
 }
 
-// call 867-5309
+// call Jenny
 void callJenny() {
   keypressDelay = 100;    // delay in mS to hold down a touch tone key
   keyReleaseDelay = 100;  // delay in mS to remain silent after a key has been released
